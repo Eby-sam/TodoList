@@ -1,0 +1,7 @@
+/*!*****************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!./assets/style/toto.css ***!
+  \*****************************************************************************************************/h1{color:#fff;font-size:XXX-large}
+/*!************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!./assets/style/front-style.css ***!
+  \************************************************************************************************************/body{background-color:blue;background-repeat:no-repeat;opacity:75%}#divImg,body{background-image:url(/build/image/letsGO.png)}#divImg{height:450px;margin:auto;width:450px}
+/*# sourceMappingURL=front.css.map*/
