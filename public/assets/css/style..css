@@ -40,6 +40,9 @@ body #allPage #ToDo #result {
   width: 99%;
   height: 80%;
 }
+body #allPage #ToDo #result .textB {
+  text-decoration: line-through;
+}
 body #allPage #ToDo #clearAll {
   width: 99%;
   height: 12%;
